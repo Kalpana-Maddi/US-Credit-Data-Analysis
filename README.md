@@ -32,4 +32,21 @@ This project analyzes **U.S. credit score data** to uncover relationships betwee
 
 By combining **statistical analysis 📊, visualization 📉, and machine learning 🤖**, this project not only demonstrates strong model performance but also provides **practical insights** for improving and maintaining good credit health.
 
+### 📂 Dataset
 
+Rows: 5,000
+Columns: 12
+
+Key Features:
+
+- Age
+- Gender
+- State
+- Education_Level
+- Annual_Income
+- Credit_Limit
+- Avg_Monthly_Spend
+- Num_Late_Payments
+- Credit_Utilization_Rate
+- Employment_Type
+- **Credit_Score (Target)**
