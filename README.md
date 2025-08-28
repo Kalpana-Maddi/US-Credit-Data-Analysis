@@ -50,3 +50,7 @@ Key Features:
 - Credit_Utilization_Rate
 - Employment_Type
 - **Credit_Score (Target)**
+
+
+## Tableau 
+The tableau link for this project can be accessed from [here]("https://public.tableau.com/views/US_CreditData_Analysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link")
